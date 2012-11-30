@@ -1,5 +1,5 @@
 # Presentation by Jeremy Wentworth on 11-30-12 using Reveal.js
 
-![Screenshot](https://raw.github.com/spidasoftware/MakeYourJobEasy/master/img/screenshot.png)
+View it online: http://spidasoftware.github.com/MakeYourJobEasy
 
-Preview: http://htmlpreview.github.com/?https://github.com/spidasoftware/MakeYourJobEasy/blob/master/index.html
+![Screenshot](https://raw.github.com/spidasoftware/MakeYourJobEasy/master/img/screenshot.png)
